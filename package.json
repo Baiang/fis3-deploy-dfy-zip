@@ -1,0 +1,47 @@
+{
+  "name": "fis3-deploy-dfy-zip",
+  "version": "1.0.2",
+  "description": "大房鸭文件压缩",
+  "main": "index.js",
+  "dependencies": {
+    "concat-stream": "^1.4.8",
+    "yazl": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "wiwi"
+  },
+  "license": "ISC",
+  "_id": "fis3-deploy-dfy-zip@1.0.1",
+  "_shasum": "43dcfbe3e3cc6ed16f2af166e2e696b7a5e0c92d",
+  "_from": "fis3-deploy-dfy-zip@1.0.2",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {
+    "name": "baiang",
+    "email": "973366510@qq.com"
+  },
+  "dist": {
+    "shasum": "43dcfbe3e3cc6ed16f2af166e2e696b7a5e0c92d",
+    "size": 1250,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/fis3-deploy-dfy-zip/download/fis3-deploy-dfy-zip-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "baiang",
+      "email": "973366510@qq.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/fis3-deploy-dfy-zip-1.0.1.tgz_1461167760989_0.8920337692834437"
+  },
+  "directories": {},
+  "publish_time": 1461167763210,
+  "_cnpm_publish_time": 1461167763210,
+  "_resolved": "http://registry.npm.taobao.org/fis3-deploy-dfy-zip/download/fis3-deploy-dfy-zip-1.0.2.tgz"
+}
